@@ -17,5 +17,5 @@ Amazon Review Dataset (Electronics) <br>
   - Recursive Neural Network (Rec NN) <br>
 
 To support the working of the deep learning algorithms embeddings file used: <br>
-***GloVe.6B.100.txt***
+***GloVe.6B.100.txt*** <br>
 Download Link : ***https://www.kaggle.com/anindya2906/glove6b***
