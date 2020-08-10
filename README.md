@@ -2,7 +2,7 @@
 This is a sample project, built to analyse the working and performance fo multiple machine learning and deep learning algorithms over amazon review dataset, for sentiment analysis
 
 ## Dataset used:
-Amazon Review Dataset (Electronics)
+Amazon Review Dataset (Electronics) <br>
 ***https://nijianmo.github.io/amazon/index.html***
 
 ## Algorithms Applied:
@@ -18,3 +18,4 @@ Amazon Review Dataset (Electronics)
 
 To support the working of the deep learning algorithms embeddings file used: <br>
 ***GloVe.6B.100.txt***
+Download Link : ***https://www.kaggle.com/anindya2906/glove6b***
