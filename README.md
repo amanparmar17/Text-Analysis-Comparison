@@ -19,3 +19,15 @@ Amazon Review Dataset (Electronics) <br>
 To support the working of the deep learning algorithms embeddings file used: <br>
 ***GloVe.6B.100.txt*** <br>
 Download Link : ***https://www.kaggle.com/anindya2906/glove6b***
+
+
+**Results Published:**
+For each of the algorithms mentioned above, we have published:
+* Accuracy
+* Precision
+* Recall
+* F-Score
+* Confusion Matrix
+* ROC curve (for ML algorithms)
+* Accuracy Curve (for DL algorithms)
+* Loss Curve (for DL algorithms)
